@@ -4,10 +4,6 @@ import psycopg2
 # Connect to the database
 db = psycopg2.connect("dbname=news")
 
-question_one = "What are the most popular three articles of all time?"
-question_two = "Who are the most popular article authors of all time?"
-question_three = "On which days did more than 1% of requests lead to errors?"
-
 # Open a cursor to perform database operations
 cur = db.cursor()
 
