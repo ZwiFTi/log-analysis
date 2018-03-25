@@ -4,7 +4,6 @@
 
 * [Description](#description)
 * [Installation](#installation)
-* [JSON Endpoints](#REST)
 * [Contributing](#contributing)
 * [Known issues](#known)
 * [License](#known)
